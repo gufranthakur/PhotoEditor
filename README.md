@@ -32,7 +32,8 @@ Importing the image from user's device
 Adding custom elements
 
 ![pv_img_4](https://github.com/user-attachments/assets/9e8ac8ad-f3c7-4bb4-b5ed-11c721ac5423)
-Altering contrast, brightness, sharpness factors
+Altering contrast, brightness, sharpness factors, and resizing the image
+
 
 
 
